@@ -1,9 +1,10 @@
-## Olá! Bem vindo ao meu Perfil!
+<!-- titulo animado -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-<div align="center">
+<div>
   <a href="https://github.com/viniciussalvador0">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=viniciussalvador0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussalvador0&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciussalvador0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussalvador0&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="PG" height="30" width="40" src="https://img.icons8.com/color/344/postgreesql.svg">
