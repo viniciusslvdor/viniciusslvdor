@@ -1,12 +1,5 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Vinicius Salvador, enthusiastic developer from Brazil!<br><br>- 🔭 I’m working as Artificial Intelligence Developer<br>- 📚 I'm currently learning about object detection with Python<br>- ⚡ In my free time I play some games and play guitar!</p>
+<h3 align="left">Hi! I'm Vinicius Salvador, enthusiastic developer from Brazil!<br></h3>
+<p align="left">- 🔭 I’m working as Artificial Intelligence Developer<br>- 📚 I'm currently learning about object detection with Python<br>- ⚡ In my free time I play some games and play guitar!</p>
 
 ###
 
