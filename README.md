@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a developer, with 2+ years of experience. <br><br>- 🔭 I’m working as Artificial Intelligence Developer<br>- 📚 I'm currently learning about object detection with Python<br>- ⚡ In my free time I play some games and play guitar!</p>
+<p align="left">I'm a developer from Brazil, with 2+ years of experience. <br><br>- 🔭 I’m working as Artificial Intelligence Developer<br>- 📚 I'm currently learning about object detection with Python<br>- ⚡ In my free time I play some games and play guitar!</p>
 
 ###
 
